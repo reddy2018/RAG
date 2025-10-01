@@ -6,3 +6,4 @@ rag-k8s-assistant/
 ├─ requirements.txt
 ├─ Dockerfile            # optional
 └─ README.md
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4799fc65-d169-4fa4-a843-9473c9201405" />
