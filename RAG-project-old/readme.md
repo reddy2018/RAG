@@ -16,9 +16,9 @@ rag-k8s-assistant/
 mkdir rag-k8s-assistant
 cd rag-k8s-assistant
 
-# create virtualenv (recommended)
+create virtualenv (recommended)
 python -m venv .venv
-# on Windows:
+ on Windows:
 .venv\Scripts\activate
 
 **Step 1 — Prepare sample data**
@@ -41,7 +41,7 @@ Stores into Chroma (persisted to ./chroma_db)
 
 **Step 3 — Build a simple QA chain (Streamlit UI)**
 
-# Run the UI
+Run the UI
 streamlit run app.py
 Open http://localhost:8501
  and ask:
