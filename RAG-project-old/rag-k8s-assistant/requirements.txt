@@ -1,0 +1,26 @@
+# Basic dependencies
+streamlit
+fastapi
+uvicorn
+
+
+# Core LangChain
+langchain==0.2.20
+langchain-community==0.0.17
+
+# OpenAI embeddings
+openai==0.28.1
+tiktoken==0.4.0
+
+# Chroma vector store
+chromadb==0.4.0
+
+# Environment & dotenv support
+python-dotenv==1.0.0
+
+# HTTP & requests
+requests==2.31.0
+
+# Optional but useful
+pydantic==2.5.1
+typing-extensions==4.7.1
